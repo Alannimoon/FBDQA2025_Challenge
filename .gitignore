@@ -1,0 +1,7 @@
+# Python
+**/__pycache__/
+# *.lo
+data/
+# *.log
+
+.DS_Store
